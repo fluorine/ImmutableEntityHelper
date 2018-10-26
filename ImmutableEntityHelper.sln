@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImmutableEntityHelper", "ImmutableEntityHelper\ImmutableEntityHelper.csproj", "{0F00008B-4E48-4EF3-BCB7-A5BD7A6E7C7D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImmutableEntityHelper.Tests", "ImmutableEntityHelper.Tests\ImmutableEntityHelper.Tests.csproj", "{5F375FD6-0A20-48A1-91FC-F0CA11BA937D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F00008B-4E48-4EF3-BCB7-A5BD7A6E7C7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F00008B-4E48-4EF3-BCB7-A5BD7A6E7C7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F00008B-4E48-4EF3-BCB7-A5BD7A6E7C7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F00008B-4E48-4EF3-BCB7-A5BD7A6E7C7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F375FD6-0A20-48A1-91FC-F0CA11BA937D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F375FD6-0A20-48A1-91FC-F0CA11BA937D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F375FD6-0A20-48A1-91FC-F0CA11BA937D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F375FD6-0A20-48A1-91FC-F0CA11BA937D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {595FBB8F-364E-42B4-8D3F-5865D772B480}
+	EndGlobalSection
+EndGlobal

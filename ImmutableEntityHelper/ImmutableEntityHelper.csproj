@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Version>0.1.0</Version>
+    <Authors>Fluorine</Authors>
+    <Description>A library to create and manipulate safe immutable objects and fluent interfaces.</Description>
+    <Copyright>(c) 2018</Copyright>
+    <PackageTags>immutable, immutability, entity, helper</PackageTags>
+    <PackageId>ImmutableEntityHelper</PackageId>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageLicenseUrl>https://opensource.org/licenses/MIT</PackageLicenseUrl>
+    <Product>ImmutableEntityHelper</Product>
+    <AssemblyName>ImmutableEntityHelper</AssemblyName>
+    <RootNamespace>ImmutableEntityHelper</RootNamespace>
+    <RepositoryUrl>https://github.com/fluorine/ImmutableEntityHelper</RepositoryUrl>
+    <PackageReleaseNotes>Initial version.</PackageReleaseNotes>
+    <PackageProjectUrl>https://github.com/fluorine/ImmutableEntityHelper</PackageProjectUrl>
+  </PropertyGroup>
+
+</Project>
